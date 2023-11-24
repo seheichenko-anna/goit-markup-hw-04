@@ -375,6 +375,10 @@ img {
     color: var(--hover-color);
 }
 
+.list-customers-icon {
+    flex-shrink: 0;
+}
+
 /*============================================== FOOTER =================================================*/
 .footer {
     background-color: var(--primary-color);
